@@ -12,19 +12,19 @@ The project contains the following screens inside the **`screens`** package:
 
 
 ### 1. Splash / Landing Screen
-![Splash Screen](screens/3.png)
+<img src="screens/3.png" width="300" />
 * App branding (LoyalLinks)
 * Telugu language support button
 * Options for **Create Profile** and **Login**
 
 ### 2. Login Screen (OTP)
-![Login Screen](screens/1.png)
+<img src="screens/1.png" width="300" />
 * Mobile number input with country code
 * OTP-based authentication flow
 * Option to login using password
 
 ### 3. Home / Dashboard Screen
-![Dashboard](screens/2.png)
+<img src="screens/2.png" width="300" />
 * User profile summary
 * Membership status (Free / Prime)
 * Profile completion progress

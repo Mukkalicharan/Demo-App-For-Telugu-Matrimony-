@@ -1,4 +1,4 @@
-# Telugu Matrimony App (Jetpack Compose) -- Demo
+# Demo Telugu Matrimony App (Jetpack Compose)
 
 ## 📱 Project Overview
 

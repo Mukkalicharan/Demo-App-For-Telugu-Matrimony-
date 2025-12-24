@@ -69,7 +69,6 @@ com.example.telugumatrimony
 * OTP-based login flow
 * Profile creation & completion tracking
 * Match recommendations UI
-* Telugu language support (UI level)
 
 ---
 
